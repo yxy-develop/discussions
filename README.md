@@ -60,7 +60,7 @@ private security advisory, as the
 [security policy](https://github.com/yxy-develop/.github/blob/HEAD/SECURITY.md)
 describes. Participation follows the
 [Yxy Code of Conduct](https://github.com/yxy-develop/.github/blob/HEAD/CODE_OF_CONDUCT.md);
-conduct reports go to [contact@yxy.dev](mailto:contact@yxy.dev).
+conduct reports go to [hello@yxy.dev](mailto:hello@yxy.dev).
 
 ## License
 
